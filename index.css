@@ -205,19 +205,19 @@ nav .btn-sign-in:hover{
 
 
 .vision-boxes .box-item:first-child{
-    background-color: rgba(84, 143, 245, 0.212);
+    background-color: rgba(24, 108, 254, 0.212);
 }
 
 
 
 .vision-boxes .box-item:nth-child(2){
-    background-color: #C6E4D6;
+    background-color: rgba(29, 253, 148, 0.212);
 }
 
 
 
 .vision-boxes .box-item:last-child{
-    background-color: #F7EBCF;
+    background-color: rgba(252, 187, 34, 0.212);
 }
 
 
